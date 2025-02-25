@@ -50,3 +50,7 @@ Political Context and Polling
 To gauge potential opposition to future developments, onshore wind was used as a proxy for local attitudes towards renewable energy infrastructure. Unlike solar, onshore wind developments were subject to a de facto ban until recently, making opposition to it a more reliable indicator of aversion to new energy infrastructure. Constituencies with significant installed capacity but high aversion to onshore wind reflect areas where political resistance may be stronger, despite their existing contribution to the renewable transition.
 Conclusion
 This methodology provides a structured approach to understanding the spatial distribution of renewable energy potential and existing capacity across English constituencies. The resulting index highlights areas with the greatest capacity for future development and informs the political risk of opposition, offering valuable insights for policymakers navigating the 2030 renewables transition. 
+
+Constituency polling by Survation: https://www.survation.com/polling-in-every-constituency-in-britain-shows-strong-support-for-building-wind-farms-to-drive-down-consumer-bills/
+Friends of the Earth Feasible Land data: https://policy.friendsoftheearth.uk/download/full-data-analysis-englands-onshore-renewable-energy-potential
+Renewable Energy planning Database: https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract
