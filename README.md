@@ -1,6 +1,6 @@
 # Jumping-the-Gun
 https://www.ukonward.com/wp-admin/post.php?post=36371&amp;action=edit&amp;classic-editor
-Fair Share Renewables Index. Onward’s Fair Share Renewables Index can be found here. The index is composed of three variables with values ranging from 0 to 1, so that each English constituency is relatively ranked. The three variables are:
+Fair Share Renewables Index. The index is composed of three variables with values ranging from 0 to 1, so that each English constituency is relatively ranked. The three variables are:
 
 Inverted onshore wind block support. This measures support for allowing onshore wind to be built, with a higher value (maximum 1) equating to greater levels of support
 Land feasible km2. This indicates the remaining available feasible land for onshore wind and solar generation projects by constituency, a higher value (maximum 1) indicating a relatively higher availability of land
@@ -9,7 +9,8 @@ MW accepted since 1990. This indicates the relative share of renewables taken on
 These three variables are then averaged to create an overall score across which the components can be assessed to determine the likelihood of future development. 
 
 In the overall Index an area hypothetically scoring one would therefore be the area with the highest support for renewables, the highest feasible land, and the highest MW accepted; An area hypothetically scoring 0 would have the lowest value across these three variables.
-Overview
+
+Methodology Overview
 This methodology note clarifies the approach used to identify and analyse areas in England that are likely to bear the brunt of the 2030 renewables transition. The goal of this analysis is to assess both the distribution of feasible land for onshore renewable generation and the existing scale of renewable energy projects at the constituency level, using min-max scaling to create an index. This index enables a comparison of constituencies to determine which areas are most likely to experience future development pressures and how this may align with political opposition.
 Data Sources
 1. Friends of the Earth – Feasible Land for Onshore Renewable Generation
